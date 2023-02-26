@@ -4,4 +4,3 @@ Pillow==9.4.0
 streamlit==1.18.1
 tensorflow
 tensorflow_intel
-protobuf==3.9.2
