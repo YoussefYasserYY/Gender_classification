@@ -1,6 +1,0 @@
-keras==2.11.0
-numpy==1.23.3
-Pillow==9.4.0
-streamlit==1.18.1
-tensorflow
-tensorflow_intel
